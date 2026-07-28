@@ -17,8 +17,8 @@ proceeded to clean the data by doing the following:
    
 **Exploratory Data Analysis:**
 1. Created multiple histograms to observe the shapes of each of the variables and ascertain their skewness.
-2. Conducted a correlation analysis using the seaborn heatmap feature: Variables have no linear relationship.
-3. Built a scatterplot to observe non-linearity: Variables had no relationship.
+2. Conducted a correlation analysis using the seaborn heatmap feature and a correlation matrix: Variables have no linear relationship.
+3. Built a pairplot to observe non-linearity: Variables had no relationship.
 
    
 **Conclusion:**
