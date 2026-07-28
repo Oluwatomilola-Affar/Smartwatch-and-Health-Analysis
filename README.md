@@ -1,5 +1,5 @@
 **Data Source and Packages:** 
-1. Downloaded a raw data set from Kaggle on Smartwatch and Health. I
+1. Downloaded a raw data set from Kaggle on Smartwatch and Health.
 2. Imported packages, such as pandas, matplotlib, seaborn, and numpy. 
 3. Conducted the 5-inspection ritual method to understand the data.
 
